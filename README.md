@@ -1,4 +1,3 @@
-![Logo](cp.png)
 
 # Piyushkant Bhardwaj — Portfolio
 
